@@ -4997,3 +4997,77 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [05May2025 16:35:59.342] [Server thread/INFO] [Daily Rewards/]: Daily Rewards saving special reward user data for [2025-5:828be971-5c2b-3a18-9cd3-248f0c612db4] ...
 [05May2025 16:35:59.343] [Server thread/INFO] [Daily Rewards/]: Daily Rewards saving reward data ... {2025-5=[16 cooked_beef, 16 pumpkin_seeds, 16 beetroot_seeds, 8 gold_ingot, 8 gold_ingot, 16 beetroot_seeds, 3 quartz, 16 beetroot_seeds, 16 melon_seeds, 8 iron_ingot, 8 iron_ingot, 4 white_wool, 8 gold_ingot, 16 pumpkin_seeds, 16 wheat_seeds, 32 arrow, 16 beetroot_seeds, 4 white_wool, 16 beetroot_seeds, 16 oak_log, 1 diamond, 16 oak_log, 8 gold_ingot, 1 spyglass, 32 arrow, 16 egg, 16 pumpkin_seeds, 16 wheat_seeds, 8 gold_ingot, 16 pumpkin_seeds, 8 iron_ingot]}
 [05May2025 16:35:59.343] [Server thread/INFO] [Daily Rewards/]: Daily Rewards saving special reward data ... {2025-5=[1 cake, 1 cookie, 1 cake, 1 cookie, 1 cake, 1 cookie, 1 cake, 1 cookie, 1 cake, 1 cookie, 1 cake, 1 cookie, 1 cake, 1 cookie, 1 cake, 1 cookie, 1 cake, 1 cookie, 1 cake, 1 cookie, 1 cake, 1 cookie, 1 cake, 1 cookie, 1 cake, 1 cookie, 1 cake, 1 cookie, 1 cake, 1 cookie, 1 cake]}
+[05May2025 16:41:33.451] [Server thread/WARN] [net.minecraft.server.players.PlayerList/]: Unknown respawn dimension ResourceKey[minecraft:dimension / minecraft:nether], defaulting to overworld
+[05May2025 16:41:33.451] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElYunoz[/127.102.116.192:33975] logged in with entity id 1327 at (162.5, 98.0, -1894.5)
+[05May2025 16:41:33.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElYunoz joined the game
+[05May2025 16:41:33.960] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElYunoz lost connection: Disconnected
+[05May2025 16:41:33.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElYunoz left the game
+[05May2025 16:43:22.234] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3830241f[id=<null>,name=ElYunoz,properties={},legacy=false] (/127.102.116.192:42983) lost connection: Disconnected
+[05May2025 16:43:52.200] [Server thread/WARN] [net.minecraft.server.players.PlayerList/]: Unknown respawn dimension ResourceKey[minecraft:dimension / minecraft:nether], defaulting to overworld
+[05May2025 16:43:52.200] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElYunoz[/127.102.116.192:59541] logged in with entity id 1335 at (2000.9, 98.0, 7690.5)
+[05May2025 16:43:52.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElYunoz joined the game
+[05May2025 16:43:57.436] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElYunoz lost connection: Disconnected
+[05May2025 16:43:57.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElYunoz left the game
+[05May2025 16:43:57.609] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5331ms or 106 ticks behind
+[05May2025 16:43:57.645] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[05May2025 16:44:01.900] [Worker-Main-34/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[05May2025 16:44:01.902] [Worker-Main-34/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[05May2025 16:44:01.903] [Worker-Main-34/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[05May2025 16:44:01.904] [Worker-Main-34/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[05May2025 16:48:58.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found
+[05May2025 16:49:07.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found
+[05May2025 16:49:07.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found
+[05May2025 16:49:08.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found
+[05May2025 16:49:08.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found
+[05May2025 16:49:08.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found
+[05May2025 16:49:08.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found
+[05May2025 16:49:09.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found
+[05May2025 16:49:09.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found
+[05May2025 16:49:09.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found
+[05May2025 16:49:09.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found
+[05May2025 16:49:10.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found
+[05May2025 16:49:10.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found
+[05May2025 16:49:10.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found
+[05May2025 16:49:10.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found
+[05May2025 16:49:11.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found
+[05May2025 16:49:11.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found
+[05May2025 16:49:11.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found
+[05May2025 16:49:12.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found
+[05May2025 16:49:12.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found
+[05May2025 16:49:12.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found
+[05May2025 16:49:12.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found
+[05May2025 16:49:13.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found
+[05May2025 16:49:13.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found
+[05May2025 16:49:13.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found
+[05May2025 16:49:13.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found
+[05May2025 16:49:14.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found
+[05May2025 16:49:14.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found
+[05May2025 16:49:14.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found
+[05May2025 16:49:14.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found
+[05May2025 16:49:15.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found
+[05May2025 16:49:15.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found
+[05May2025 16:49:15.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found
+[05May2025 16:49:15.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found
+[05May2025 16:49:15.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found
+[05May2025 16:49:16.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found
+[05May2025 16:49:16.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found
+[05May2025 16:49:16.648] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElYunoz[/127.102.116.192:57903] logged in with entity id 1342 at (2000.9, 98.0, 7690.5)
+[05May2025 16:49:16.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElYunoz joined the game
+[05May2025 16:49:20.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported ElYunoz to 3000.500000, 300.000000, 3000.500000
+[05May2025 16:49:20.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported ElYunoz to 3000.500000, 300.000000, 3000.500000
+[05May2025 16:49:20.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported ElYunoz to 3000.500000, 300.000000, 3000.500000
+[05May2025 16:49:20.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported ElYunoz to 3000.500000, 300.000000, 3000.500000
+[05May2025 16:49:20.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported ElYunoz to 3000.500000, 300.000000, 3000.500000
+[05May2025 16:49:20.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported ElYunoz to 3000.500000, 300.000000, 3000.500000
+[05May2025 16:49:20.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported ElYunoz to 3000.500000, 300.000000, 3000.500000
+[05May2025 16:49:20.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported ElYunoz to 3000.500000, 300.000000, 3000.500000
+[05May2025 16:49:20.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported ElYunoz to 3000.500000, 300.000000, 3000.500000
+[05May2025 16:49:20.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported ElYunoz to 3000.500000, 300.000000, 3000.500000
+[05May2025 16:49:20.511] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3832ms or 76 ticks behind
+[05May2025 16:49:20.522] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElYunoz lost connection: Disconnected
+[05May2025 16:49:20.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElYunoz left the game
+[05May2025 16:49:34.551] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElYunoz[/127.102.116.192:45549] logged in with entity id 1343 at (3000.5, 300.0, 3000.5)
+[05May2025 16:49:34.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElYunoz joined the game
+[05May2025 16:49:35.004] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElYunoz lost connection: Disconnected
+[05May2025 16:49:35.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElYunoz left the game
+[05May2025 16:49:35.107] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
